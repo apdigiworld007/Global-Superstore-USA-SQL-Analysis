@@ -59,8 +59,6 @@ The SQL analysis includes:
 ![Monthly Sales 2016](screenshots/03_3_Monthly_Sales_Trend_2016.png)
 ![Monthly Sales 2017](screenshots/03_4_Monthly_Sales_Trend_2017.png)
 
-![Monthly Sales](screenshots/monthly_trend.png)
-
 ### Monthly Profit Trend
 ![Monthly Profit](screenshots/monthly_profit.png)
 
