@@ -52,17 +52,20 @@ The SQL analysis includes:
 
 ## Sample Outputs
 
-### Monthly Sales Trend
-
-![Monthly Sales 2014](screenshots/03_1_Monthly_Sales_Trend_2014.png)
-
-
-### Monthly Profit Trend
+### Monthly Sales Trend 2014 to 2017
 https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_1_Monthly_Sales_Trend_2014.png
-![Monthly Profit](screenshots/monthly_profit.png)
+https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_2_Monthly_Sales_Trend_2015.png 
+https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_3_Monthly_Sales_Trend_2016.png 
+https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_4_Monthly_Sales_Trend_2017.png 
+
+### Monthly Profit Trend 2014 to 2017
+https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_1_Monthly_Profit_Trend_2014.png 
+https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_2_Monthly_Profit_Trend_2015.png 
+https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_3_Monthly_Profit_Trend_2016.png 
+https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_4_Monthly_Profit_Trend_2017.png
 
 ### Top Customers
-![Top Customers](screenshots/top_customers.png)
+https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/05_Sales_by_Category.png 
 
 ### Loss-Making Products
 ![Loss Products](screenshots/loss_products.png)
