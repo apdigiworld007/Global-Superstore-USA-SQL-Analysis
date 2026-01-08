@@ -58,6 +58,7 @@ The SQL analysis includes:
 
 
 ### Monthly Profit Trend
+https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_1_Monthly_Sales_Trend_2014.png
 ![Monthly Profit](screenshots/monthly_profit.png)
 
 ### Top Customers
