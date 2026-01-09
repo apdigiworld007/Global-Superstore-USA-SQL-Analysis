@@ -22,7 +22,7 @@ The dataset was exported directly from Power BI (Table View) to ensure **100% da
 consistency** with dashboard results.
 
 **Table Used:**
-- `orders usa`
+- "C:\Users\amirp\OneDrive\Documents\Global Superstore Data\Orders USA.csv"
 
 ## Key Business Questions Answered
 - What are the total sales, total profit, and total orders?
@@ -42,7 +42,7 @@ consistency** with dashboard results.
 ## SQL Analysis
 All finalized and validated SQL queries are available here:
 
-- `sql/global_superstore_usa_analysis.sql`
+- "C:\Users\amirp\OneDrive\Documents\Global Superstore Data\Global_sSperstore_USA_SQL_Analysis.sql"
 
 The SQL analysis includes:
 - Aggregations
@@ -53,10 +53,18 @@ The SQL analysis includes:
 ## Sample Outputs
 
 # Monthly Sales Trend 2014 to 2017
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_1_Monthly_Sales_Trend_2014.png
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_2_Monthly_Sales_Trend_2015.png 
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_3_Monthly_Sales_Trend_2016.png 
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_4_Monthly_Sales_Trend_2017.png 
+
+- **Monthly Sales Trend – 2014**  
+  ![Monthly Sales Trend 2014](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_1_Monthly_Sales_Trend_2014.png)
+
+- **Monthly Sales Trend – 2015**  
+  ![Monthly Sales Trend 2015](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_2_Monthly_Sales_Trend_2015.png)
+
+- **Monthly Sales Trend – 2016**  
+  ![Monthly Sales Trend 2016](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_3_Monthly_Sales_Trend_2016.png)
+
+- **Monthly Sales Trend – 2017**  
+  ![Monthly Sales Trend 2017](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_4_Monthly_Sales_Trend_2017.png)
 
 # Monthly Profit Trend 2014 to 2017
 https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_1_Monthly_Profit_Trend_2014.png 
