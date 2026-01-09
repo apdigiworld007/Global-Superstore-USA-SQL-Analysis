@@ -17,17 +17,21 @@ loss-making products.
 - Excel (data export from Power BI)
 - GitHub
 
-## Dataset
-The dataset was exported directly from Power BI (Table View) to ensure **100% data
-consistency** with dashboard results.
+## 📦 Dataset
 
-## Dataset
-- Source: Global Superstore (Tableau)
-- Region: United States
-- Time Period: 2014–2017
-- Table Used: `orders usa`
-   
-[Global Superstore Data Set](www.tableau.com/sites/default/files/training/global_superstore.zip?_gl=1*1t3rrks*_gcl_au*MTQzNTY1MzQ1OC4xNzY1MjAyMzkx*_ga*NzAwNDk5NzY4LjE3MzkyODAzMDg.*_ga_8YLN0SNXVS*czE3NjUyMDIzOTEkbzEzJGcxJHQxNzY1MjAyNDg1JGozNSRsMCRoMA..&_ga=2.154766321.894279290.1765202391-700499768.1739280308)
+The dataset used in this project is the **Global Superstore** sample dataset,
+officially provided by **Tableau** for training and analytics practice.
+
+🔗 Official download link (Tableau):
+https://www.tableau.com/sites/default/files/training/global_superstore.zip
+
+The dataset contains:
+- Orders
+- People
+- Returns
+
+For this project, only **USA Orders** were extracted and analyzed to ensure
+exact consistency with Power BI results.
 
 ## Key Business Questions Answered
 - What are the total sales, total profit, and total orders?
