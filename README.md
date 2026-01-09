@@ -67,16 +67,27 @@ The SQL analysis includes:
   ![Monthly Sales Trend 2017](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/03_4_Monthly_Sales_Trend_2017.png)
 
 # Monthly Profit Trend 2014 to 2017
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_1_Monthly_Profit_Trend_2014.png 
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_2_Monthly_Profit_Trend_2015.png 
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_3_Monthly_Profit_Trend_2016.png 
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_4_Monthly_Profit_Trend_2017.png
+- **Monthly Profit Trend – 2014**  
+  ![Monthly Profit Trend 2014](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_1_Monthly_Profit_Trend_2014.png)
+
+- **Monthly Profit Trend – 2015**  
+  ![Monthly Profit Trend 2015](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_2_Monthly_Profit_Trend_2015.png)
+
+- **Monthly Profit Trend – 2016**  
+  ![Monthly Profit Trend 2016](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_3_Monthly_Profit_Trend_2016.png)
+
+- **Monthly Profit Trend – 2017**  
+  ![Monthly Profit Trend 2017](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/04_4_Monthly_Profit_Trend_2017.png)
 
 # Top Customers
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/02_Top-5-Customers_by_Sales..png 
+- **Top 5 Customers by Sales (USA)**  
+  ![Top Customers](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/02_Top-5-Customers_by_Sales..png)
+
 
 # Loss-Making Products
-https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/07_Loss_Making_Products.png 
+- **Loss-Making Products (Negative Profit)**  
+  [Loss Making Products](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/screenshots/07_Loss_Making_Products.png)
+
 
 ## Skills Demonstrated
 - SQL aggregations & filtering
