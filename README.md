@@ -21,8 +21,14 @@ loss-making products.
 The dataset was exported directly from Power BI (Table View) to ensure **100% data
 consistency** with dashboard results.
 
-**Table Used:**
-- "C:\Users\amirp\OneDrive\Documents\Global Superstore Data\Orders USA.csv"
+## Dataset
+- Source: Global Superstore (Tableau)
+- Region: United States
+- Time Period: 2014–2017
+- Table Used: `orders usa`
+
+📄 SQL Queries:  
+[View SQL Analysis](sql/global_superstore_usa_analysis.sql)
 
 ## Key Business Questions Answered
 - What are the total sales, total profit, and total orders?
