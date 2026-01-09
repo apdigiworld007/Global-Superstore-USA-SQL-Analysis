@@ -42,7 +42,7 @@ consistency** with dashboard results.
 ## SQL Analysis
 All finalized and validated SQL queries are available here:
 
-- "C:\Users\amirp\OneDrive\Documents\Global Superstore Data\Global_sSperstore_USA_SQL_Analysis.sql"
+-[SQL queries](https://github.com/apdigiworld007/Global-Superstore-USA-SQL-Analysis/blob/main/sql/global_superstore_usa_analysis.sql)
 
 The SQL analysis includes:
 - Aggregations
