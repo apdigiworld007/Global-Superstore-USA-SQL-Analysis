@@ -26,9 +26,8 @@ consistency** with dashboard results.
 - Region: United States
 - Time Period: 2014–2017
 - Table Used: `orders usa`
-
-📄 SQL Queries:  
-[View SQL Analysis](sql/global_superstore_usa_analysis.sql)
+   
+[Global Superstore Data Set](www.tableau.com/sites/default/files/training/global_superstore.zip?_gl=1*1t3rrks*_gcl_au*MTQzNTY1MzQ1OC4xNzY1MjAyMzkx*_ga*NzAwNDk5NzY4LjE3MzkyODAzMDg.*_ga_8YLN0SNXVS*czE3NjUyMDIzOTEkbzEzJGcxJHQxNzY1MjAyNDg1JGozNSRsMCRoMA..&_ga=2.154766321.894279290.1765202391-700499768.1739280308)
 
 ## Key Business Questions Answered
 - What are the total sales, total profit, and total orders?
