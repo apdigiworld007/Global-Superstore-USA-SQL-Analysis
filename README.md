@@ -19,7 +19,7 @@ loss-making products.
 
 ## 📦 Dataset
 
--[Dataset](Global_Superstore_Orders_USA.csv)
+-[Dataset](Datafolder/Global_Superstore_Orders_USA.csv)
 
 ## Key Business Questions Answered
 - What are the total sales, total profit, and total orders?
