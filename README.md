@@ -19,19 +19,7 @@ loss-making products.
 
 ## 📦 Dataset
 
-The dataset used in this project is the **Global Superstore** sample dataset,
-officially provided by **Tableau** for training and analytics practice.
-
-🔗 Official download link (Tableau):
-https://www.tableau.com/sites/default/files/training/global_superstore.zip
-
-The dataset contains:
-- Orders
-- People
-- Returns
-
-For this project, only **USA Orders** were extracted and analyzed to ensure
-exact consistency with Power BI results.
+-[Dataset](Global_Superstore_Orders_USA.csv)
 
 ## Key Business Questions Answered
 - What are the total sales, total profit, and total orders?
