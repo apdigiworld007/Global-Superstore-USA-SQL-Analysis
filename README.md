@@ -9,7 +9,7 @@ loss-making products.
 
 **Time Period:** 2014–2017  
 **Region:** United States only  
-**Rows Analyzed:** ~9,996 (validated with Power BI)
+**Rows Analyzed:** ~9,995 (validated with Power BI)
 
 ## Tools Used
 - MySQL
