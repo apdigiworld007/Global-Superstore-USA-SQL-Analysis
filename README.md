@@ -23,7 +23,7 @@ loss-making products.
 
 ## Key Business Questions Answered
 - What are the total sales, total profit, and total orders?
-- Who are the top 5 customers by sales?
+- Who are the top 5 customers by sales & profit?
 - How do monthly sales and profit trends change over time?
 - Which product categories generate the most sales?
 - Which states contribute the highest revenue?
